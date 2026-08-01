@@ -22,7 +22,6 @@ I love connecting with people and sharing my work — so here are all my social 
 - Well‑structured and beginner‑friendly  
 
 ---
-
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
